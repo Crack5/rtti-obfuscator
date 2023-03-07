@@ -17,7 +17,7 @@ $ rtti-obfuscator.exe xxx.dll xxx.rtti.dll "\?(AV|AU).+@"
 ### Preview
 
 Now when ran through the obfuscator, it will turn into this:
-![(https://github.com/Crack5/rtti-obfuscator/blob/master/rtti-obfuscator/Preview.png)
+![](https://github.com/Crack5/rtti-obfuscator/blob/master/rtti-obfuscator/Preview.png?raw=true)
 
 
 
